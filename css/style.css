@@ -1,4 +1,56 @@
 body {
     margin-left: 100px;
     margin-right: 200px;
+    font: 20px Arial, sans-serif;
 }
+
+.navbar {
+    background-color: #F9EFEE;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bg-footer {
+    background-color: #af3c76;
+    color: white;
+    font: 12px Arial, sans-serif;
+}
+
+.sobremesas {
+    background-color: #F9EFEE;
+    color: #000100;
+    color: #FF339A;
+}
+
+.doces {
+    background-color: #F9EFEE;
+    color: #000100;
+    color: #FF339A;
+}
+
+.aviso {
+    font: 16px Arial, sans-serif;
+}
+
+.alert-warning {
+    background-color: #CDCDCD;
+    border-color: #FF339A;
+    color: #a81961;
+}
+
+.contato {
+    background-color: #F9EFEE;
+    color: #000100;
+}
+
+.cabecalho {
+    background-color: #F9EFEE;
+    color: #000100;
+}
+
+.imagem { 
+    border:1px solid #FF339A;
+ }
