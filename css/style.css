@@ -61,5 +61,8 @@ body {
 
  .whatsapp-fixo {
      position: fixed;
+     top: 82%;
+     right: 5%;
+     padding: 10px;
      z-index: 999;
  }
