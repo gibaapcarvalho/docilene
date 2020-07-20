@@ -9,8 +9,12 @@ body {
 }
 
 .margin {
-    padding-top: 10px;
+    padding-top: 5px;
     padding-bottom: 10px;
+}
+
+.margin-2 {
+    padding-top: 10px;
 }
 
 .bg-footer {
@@ -53,4 +57,9 @@ body {
 
 .imagem { 
     border:1px solid #FF339A;
+ }
+
+ .whatsapp-fixo {
+     position: fixed;
+     z-index: 999;
  }
